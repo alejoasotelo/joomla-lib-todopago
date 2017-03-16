@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library" version="3.1">
+	<name>todopago</name>
+	<libraryname>todopago</libraryname>
+	<version>0.1</version>
+	<description>SDK de TodoPago.com</description>
+	<creationDate>2017</creationDate>
+	<copyright>C)2017 alejosotelo.com.ar</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<author>Alejo Sotelo</author>
+	<authorUrl>http://alejosotelo.com.ar</authorUrl>
+	<files>
+		<folder>lib</folder>
+	</files>
+</extension>
